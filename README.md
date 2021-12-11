@@ -23,7 +23,6 @@
   
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://toheebyekeen.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-https://toheebyekeen.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:toheebyeeken@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-toheebyekeen@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/toheeb-yekeen-10aa0a127/) 👨🏻‍💻
+- Shoot Me an [Email](toheebyekeen@gmail.com) 💌
+- Portfolio site [Portfolio] (https://toheebyekeen.netlify.app/)
