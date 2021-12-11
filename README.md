@@ -1,9 +1,12 @@
-<h2> Hey there! I'm Toheeb.</h2>
+<h2> Hey there!👋 I'm Toheeb.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- I am a fullstack developer
+<h3> I'm a FullStack Developer | Software Engineer </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ Quote: "First, solve the problem. Then write the code".
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -25,4 +28,4 @@
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/toheeb-yekeen-10aa0a127/) 👨🏻‍💻
 - Shoot Me an [Email](toheebyekeen@gmail.com) 💌
-- Portfolio site [Portfolio] (https://toheebyekeen.netlify.app/)
+- Portfolio site [Portfolio](https://toheebyekeen.netlify.app/)
