@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> I'm a FrontEnd Developer | Software Developer </h3>
+<h3> I'm an Azure Cloud Engineer | DevOps Engineer | Cloud Support Engineer </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I’m looking to collaborate on Cloud/DevOps Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Quote: "First, solve the problem. Then write the code".
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
